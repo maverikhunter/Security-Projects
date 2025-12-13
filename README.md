@@ -1,4 +1,4 @@
-## 🔗 Live Project Page: GoPhish Phishing Simulation (Windows 11)
+## 🔗 Live Project Page: GoPhish Phishing Simulation | Alert and Monitoring(Windows 11)
 
 Read the full walkthrough on my WordPress blog:  
 👉 https://cyberbits8.wordpress.com/2025/11/14/gone-phishing-gophish-phishing-simulator-windows-11-guide/
